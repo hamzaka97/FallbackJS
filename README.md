@@ -44,7 +44,9 @@ Add one script tag to your main HTML file:
 
 ```html
 <script src="https://fallbackjs.netlify.app/fallback.min.js"></script>
+```
 
 ---
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/dheeraz)
+
